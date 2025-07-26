@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\features\\categories\\commands\\createcateogry\\createcategorycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\features\\categories\\commands\\createcateogry\\createcategorycommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6014311A-D328-4FAA-8FF1-9F1C1DA03F80}|GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6014311A-D328-4FAA-8FF1-9F1C1DA03F80}|GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj|solutionrelative:globoticket.ticketmanagement.domain\\common\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6014311A-D328-4FAA-8FF1-9F1C1DA03F80}|GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6014311A-D328-4FAA-8FF1-9F1C1DA03F80}|GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj|solutionrelative:globoticket.ticketmanagement.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297897D5-E6EC-4CE8-8ACF-00EC2ABE0530}|GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.persistence\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297897D5-E6EC-4CE8-8ACF-00EC2ABE0530}|GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj|solutionrelative:globoticket.ticketmanagement.persistence\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503A00C6-48ED-4909-9473-D8E92F88F827}|GloboTicket.TicketManagement.Api\\GloboTicket.TicketManagement.Api.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503A00C6-48ED-4909-9473-D8E92F88F827}|GloboTicket.TicketManagement.Api\\GloboTicket.TicketManagement.Api.csproj|solutionrelative:globoticket.ticketmanagement.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297897D5-E6EC-4CE8-8ACF-00EC2ABE0530}|GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297897D5-E6EC-4CE8-8ACF-00EC2ABE0530}|GloboTicket.TicketManagement.Persistence\\GloboTicket.TicketManagement.Persistence.csproj|solutionrelative:globoticket.ticketmanagement.persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88BFDB-8328-4C47-9FF6-6661F296B5B7}|GloboTicket.TicketManagement.Infrastructure\\GloboTicket.TicketManagement.Infrastructure.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.infrastructure\\mail\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D88BFDB-8328-4C47-9FF6-6661F296B5B7}|GloboTicket.TicketManagement.Infrastructure\\GloboTicket.TicketManagement.Infrastructure.csproj|solutionrelative:globoticket.ticketmanagement.infrastructure\\mail\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\features\\categories\\commands\\createcateogry\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\features\\categories\\commands\\createcateogry\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6014311A-D328-4FAA-8FF1-9F1C1DA03F80}|GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6014311A-D328-4FAA-8FF1-9F1C1DA03F80}|GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj|solutionrelative:globoticket.ticketmanagement.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\features\\events\\queries\\geteventdetail\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\features\\events\\queries\\geteventdetail\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\features\\categories\\commands\\createcateogry\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\features\\categories\\commands\\createcateogry\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\contracts\\infrastructure\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\contracts\\infrastructure\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\contracts\\infrastructure\\icsvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\contracts\\infrastructure\\icsvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\contracts\\persistence\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\contracts\\persistence\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\contracts\\persistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\contracts\\persistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6014311A-D328-4FAA-8FF1-9F1C1DA03F80}|GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6014311A-D328-4FAA-8FF1-9F1C1DA03F80}|GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj|solutionrelative:globoticket.ticketmanagement.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\contracts\\persistence\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\contracts\\persistence\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\contracts\\persistence\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\contracts\\persistence\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\features\\categories\\commands\\createcateogry\\createcategorycommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\features\\categories\\commands\\createcateogry\\createcategorycommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslist\\getcategorieslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslist\\getcategorieslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslist\\categorylistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\features\\categories\\queries\\getcategorieslist\\categorylistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\features\\categories\\commands\\createcateogry\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\features\\categories\\commands\\createcateogry\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|d:\\prywatne\\clean architecture aspnet core\\clean architecture aspnet core robocze\\06\\demos\\globoticket.ticketmanagement\\globoticket.ticketmanagement.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE54DE71-236B-417F-A75F-45FA31218531}|GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj|solutionrelative:globoticket.ticketmanagement.application\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateCategoryCommandValidator.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommandValidator.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommandValidator.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommandValidator.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:31:36.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:07:49.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Persistence\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Persistence\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:03:45.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\Common\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Domain\\Common\\AuditableEntity.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\Common\\AuditableEntity.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Domain\\Common\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:05:48.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:05:54.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Responses\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Responses\\BaseResponse.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Responses\\BaseResponse.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Responses\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:29:37.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Persistence\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Persistence\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:06:45.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Infrastructure\\Mail\\EmailService.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Infrastructure\\Mail\\EmailService.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Infrastructure\\Mail\\EmailService.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Infrastructure\\Mail\\EmailService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:06:21.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\CategoryDto.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\CategoryDto.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Features\\Events\\Queries\\GetEventDetail\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:59:23.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:50:51.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryDto.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryDto.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:29:09.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Domain\\Entities\\Event.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\Entities\\Event.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Domain\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:05:57.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Contracts\\Infrastructure\\IEmailService.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Contracts\\Infrastructure\\IEmailService.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Contracts\\Infrastructure\\IEmailService.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Contracts\\Infrastructure\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:49:08.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCategoryCommandHandler.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommandHandler.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommandHandler.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommandHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:25:41.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICsvExporter.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Contracts\\Infrastructure\\ICsvExporter.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Contracts\\Infrastructure\\ICsvExporter.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Contracts\\Infrastructure\\ICsvExporter.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Contracts\\Infrastructure\\ICsvExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:49:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:05:59.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\ICategoryRepository.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:38:25.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:25:48.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\IOrderRepository.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\IOrderRepository.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:36:37.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\IEventRepository.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\IEventRepository.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Contracts\\Persistence\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:36:35.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:36:09.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateCategoryCommandResponse.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommandResponse.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommandResponse.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommandResponse.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:34:30.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetCategoriesListQuery.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\GetCategoriesListQuery.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\GetCategoriesListQuery.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\GetCategoriesListQuery.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\GetCategoriesListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:28:18.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryListVm.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\CategoryListVm.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\CategoryListVm.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\CategoryListVm.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Queries\\GetCategoriesList\\CategoryListVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:28:16.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateCategoryCommand.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommand.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommand.cs",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Features\\Categories\\Commands\\CreateCateogry\\CreateCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:25:17.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "GloboTicket.TicketManagement.Application\\Profiles\\MappingProfile.cs",
+              "ToolTip": "D:\\Prywatne\\Clean Architecture aspnet core\\Clean Architecture aspnet core robocze\\06\\demos\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Application\\Profiles\\MappingProfile.cs*",
+              "RelativeToolTip": "GloboTicket.TicketManagement.Application\\Profiles\\MappingProfile.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T19:24:19.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
