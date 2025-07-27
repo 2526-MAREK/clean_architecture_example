@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GloboTicket.TicketManagement.Application",
+    "\\GloboTicket.TicketManagement.Application\\Contracts",
+    "\\GloboTicket.TicketManagement.Application\\Contracts\\Persistence",
+    "\\GloboTicket.TicketManagement.Application\\Features\\Reviews",
+    "\\GloboTicket.TicketManagement.Application\\Features\\Reviews\\Commands",
+    "\\GloboTicket.TicketManagement.Application\\Features\\Reviews\\Commands\\CreateReview",
+    "\\GloboTicket.TicketManagement.Application\\Features\\Reviews\\Queries",
+    "\\GloboTicket.TicketManagement.Application\\Features\\Reviews\\Queries\\GetEventReviews",
+    "\\GloboTicket.TicketManagement.Application\\Profiles"
+  ],
+  "SelectedNode": "\\GloboTicket.TicketManagement.Domain\\Entities\\Review.cs",
+  "PreviewInSolutionExplorer": false
+}
